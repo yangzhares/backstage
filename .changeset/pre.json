@@ -210,5 +210,15 @@
     "@backstage/plugin-vault-backend": "0.2.8",
     "@backstage/plugin-xcmetrics": "0.2.35"
   },
-  "changesets": []
+  "changesets": [
+    "create-app-1676581042",
+    "new-jobs-deny",
+    "ninety-turtles-wait",
+    "old-foxes-shave",
+    "polite-falcons-jump",
+    "rare-buses-swim",
+    "slimy-lobsters-kneel",
+    "ten-tigers-marry",
+    "twenty-jeans-speak"
+  ]
 }

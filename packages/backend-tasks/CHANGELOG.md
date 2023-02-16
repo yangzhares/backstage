@@ -1,5 +1,13 @@
 # @backstage/backend-tasks
 
+## 0.4.4-next.0
+
+### Patch Changes
+
+- f0685193ef: Added the adapted query to mysql and sqlite3 databases to not returning warning on logs
+- Updated dependencies
+  - @backstage/backend-common@0.18.3-next.0
+
 ## 0.4.3
 
 ### Patch Changes

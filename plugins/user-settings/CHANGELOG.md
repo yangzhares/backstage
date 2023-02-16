@@ -1,5 +1,12 @@
 # @backstage/plugin-user-settings
 
+## 0.7.1-next.0
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-catalog-react@1.4.0-next.0
+
 ## 0.7.0
 
 ### Minor Changes

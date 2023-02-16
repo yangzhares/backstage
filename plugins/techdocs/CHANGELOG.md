@@ -1,5 +1,14 @@
 # @backstage/plugin-techdocs
 
+## 1.5.1-next.0
+
+### Patch Changes
+
+- f320c299c6: The HTML tag attributes in the documentation content inserted to shadow DOM is preserved to improve accessibility
+- Updated dependencies
+  - @backstage/plugin-catalog-react@1.4.0-next.0
+  - @backstage/integration-react@1.1.10
+
 ## 1.5.0
 
 ### Minor Changes

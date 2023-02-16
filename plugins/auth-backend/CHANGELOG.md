@@ -1,5 +1,14 @@
 # @backstage/plugin-auth-backend
 
+## 0.18.1-next.0
+
+### Patch Changes
+
+- 529de8c421: Added authentication provider for Azure Easy Authentication.
+- Updated dependencies
+  - @backstage/backend-common@0.18.3-next.0
+  - @backstage/plugin-auth-node@0.2.12-next.0
+
 ## 0.18.0
 
 ### Minor Changes

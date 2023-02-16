@@ -1,5 +1,12 @@
 # @backstage/plugin-ilert
 
+## 0.2.5-next.0
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-catalog-react@1.4.0-next.0
+
 ## 0.2.4
 
 ### Patch Changes

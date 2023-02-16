@@ -1,5 +1,11 @@
 # @backstage/plugin-catalog-react
 
+## 1.4.0-next.0
+
+### Minor Changes
+
+- 0a5b73b292: Add possibility to re-use EntityPicker for filters with multiple select.
+
 ## 1.3.0
 
 ### Minor Changes
